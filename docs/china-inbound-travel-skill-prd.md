@@ -173,4 +173,4 @@ Do not copy 100+ articles into `SKILL.md` or hardcode today's visa-exempt countr
 
 ## 12. Deliverable Status
 
-This phase delivers the requirements document and [source register](china-travel-skill-research/sources.md). It does **not** yet include the finished Skill. Implementation should begin with M1, test the 10 cases in Codex and Claude, then refine `SKILL.md` and its references from observed failures.
+The repository now includes [SKILL.md](../SKILL.md) and focused references for the P0 travel workflows, plus the requirements document and [source register](china-travel-skill-research/sources.md). Format and package checks have passed. The 10 acceptance cases still need runtime evaluation in Codex and Claude; revise the Skill from any observed failures before marketplace submission.
